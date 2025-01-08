@@ -7,7 +7,7 @@ app.use(express.json());
 const PORT:string=process.env.PORT || "4040"
 const connection:string=process.env.MONGO_URI||"";
 
-//aloo 
+//check again 
 
 
 mongoose.connect(connection,
